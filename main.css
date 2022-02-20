@@ -8,11 +8,11 @@ mark {
   background-color: yellow !important
 }
 
-h4, h3, h5, img {
+h4, h3 {
   margin-left: 10px;
 }
 
-p, ol, ul{
+h5, p, ol, ul, img {
   margin-left: 20px;
 }
 
